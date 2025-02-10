@@ -7,4 +7,5 @@ CSS
 JavaScript
 
 🚀 Como visualizar
-Para acessar o projeto, basta abrir o arquivo index.html no navegador.
+Para acessar o projeto, basta abrir esse link: https://larissa-rios.github.io/Spotify-Landing-Page-/
+
